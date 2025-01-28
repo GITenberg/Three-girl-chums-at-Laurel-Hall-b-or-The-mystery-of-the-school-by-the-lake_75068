@@ -1,11 +1,16 @@
 _repo: Three-girl-chums-at-Laurel-Hall-b-or-The-mystery-of-the-school-by-the-lake_75068
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75068-h/images/cover.jpg
 creator:
   author:
     agent_name: Barton, May Hollis
     gutenberg_agent_id: '57807'
     url: http://www.gutenberg.org/2009/agents/57807
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75068#Three-girl-chums-at-Laurel-Hall-b-or-The-mystery-of-the-school-by-the-lake
 gutenberg_issued: '2025-01-08'
 gutenberg_type: Text
 identifiers:
